@@ -1,3 +1,6 @@
 public class Main {
-    System.out.println("Bonjour")
+
+    public static void main(String[] args) {
+        System.out.println("bonjour");
+    }
 }
